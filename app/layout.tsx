@@ -11,11 +11,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Creative Energy Boost - Personalized Content Generator',
     description: 'Upload your photo and get personalized creative content, encouragement, or support.',
-    url: 'https://nextjs-gemini-one.vercel.app',
+    url: 'https://creative-energy-boost.vercel.app',
     siteName: 'Creative Energy Boost',
     images: [
       {
-        url: 'https://nextjs-gemini-one.vercel.app/og-image.jpg',
+        url: 'https://creative-energy-boost.vercel.app/og.webp',
         width: 1024,
         height: 1024,
         alt: 'Creative Energy Boost',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Creative Energy Boost - Personalized Content Generator',
     description: 'Upload your photo and get personalized creative content, encouragement, or support.',
-    images: ['https://nextjs-gemini-one.vercel.app/twitter-image.jpg'],
+    images: ['https://creative-energy-boost.vercel.app/og.webp'],
   },
   robots: 'index, follow',
   manifest: '/manifest.json',
