@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+
+Sitemap: https://creative-energy-boost.vercel.app/sitemap.xml
